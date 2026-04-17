@@ -1,0 +1,12 @@
+{
+  "name": "my-lib",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^8.0.8",
+    "vite-plugin-css-injected-by-js": "^5.0.0"
+  }
+}
